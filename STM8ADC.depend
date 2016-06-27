@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1466910753 source:d:\mcuworkspace\stm8\stm8adc\misc.c
+	"stm8s.h"
+	"misc.h"
+
+1465888282 d:\mcuworkspace\stm8\stm8adc\stm8s.h
+	<stdint.h>
+	"stm8s_conf.h"
+	<intrins.h>
+	<intrinsics.h>
+
+1466910671 d:\mcuworkspace\stm8\stm8adc\misc.h
+
